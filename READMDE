@@ -1,0 +1,23 @@
+# Customer Segmentation Analysis
+
+## Overview
+This project focuses on customer segmentation analysis using Python in Jupyter Notebook. The aim is to group customers based on their purchasing behavior, enabling businesses to tailor marketing strategies effectively.
+
+## Features
+- **Data Preprocessing:** Clean and prepare the dataset for analysis.
+- **Exploratory Data Analysis (EDA):** Visualize customer data to identify patterns and trends.
+- **Clustering:** Use algorithms like K-Means to segment customers into distinct groups.
+- **Visualization:** Employ Matplotlib and Seaborn for insightful visual representations.
+
+## Requirements
+This project requires the following Python libraries:
+
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+
+You can install the required packages using pip:
+
+```bash
+pip install numpy pandas matplotlib seaborn
